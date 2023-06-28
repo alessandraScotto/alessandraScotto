@@ -1,16 +1,56 @@
-### Hi there 👋
+<h1> Hi there 👋 I'm Alessandra</h1>
 
-<!--
-**alessandraScotto/alessandraScotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+A Junior Full-Stack Web Developer with a passion for Front-End development.  
+</h3>
 
-Here are some ideas to get you started:
+<p> - 🌱 I’m currently learning React Js and Three JS</p> 
+- 📫 Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/idaalessandrascottodiluzio-webdev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 Languages: 
+<p align="center">
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
+
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+
+  <br>
+
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel&theme=light" />
+  </a>
+
+  <a href="https://nodejs.org/en">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+
+   <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
+  </a>
+
+   <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  
+</p>
+
