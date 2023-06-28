@@ -12,7 +12,7 @@ A Junior Full-Stack Web Developer with a passion for Front-End development.
   </a>
 </p>
 
-😄 Languages: 
+<h3>😄 Languages and Tools:</h3>  
 <p align="center">
   <a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=html" />
