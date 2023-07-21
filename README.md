@@ -4,7 +4,7 @@
 A Junior Full-Stack Web Developer with a passion for Front-End development.  
 </h3>
 
-<p> - 🌱 I’m currently learning React Js and Three JS</p> 
+<p> - 🌱 I’m currently learning React Js and Java</p> 
 - 📫 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/idaalessandrascottodiluzio-webdev/">
